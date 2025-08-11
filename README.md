@@ -15,3 +15,7 @@ departments.
 . Developed by a 6-member team over 6 months using Agile
 
 -Technologies: PHP, Laravel, MySQL, React.js, Next.js, Tailwind CSS
+
+
+
+To contact via WhatsApp: +967776461892
